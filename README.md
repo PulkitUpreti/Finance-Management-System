@@ -95,3 +95,16 @@ Future Enhancements
 - Export reports to CSV
 - Add a graphical user interface (GUI)- Cloud data syncConclusion
 This command-line application helps users easily manage personal finances in a structured, local, and secure way.
+
+
+Screenshots of the output - 
+
+![Screenshot 2025-05-28 160824](https://github.com/user-attachments/assets/c2d4afda-c5b4-47fd-a60f-6d99d3b01c29)
+![Screenshot 2025-05-28 161212](https://github.com/user-attachments/assets/6cb0b188-10e1-473d-bc39-22a681e7afa2)
+![Screenshot 2025-05-28 161330](https://github.com/user-attachments/assets/cae12317-197a-429e-b19f-ba8edb25e4e4)
+![Screenshot 2025-05-28 161434](https://github.com/user-attachments/assets/ff362a00-3a9e-4c7c-8da8-b60e136a0121)
+![Screenshot 2025-05-28 161507](https://github.com/user-attachments/assets/39accf6b-236d-4485-a625-75028e4e025a)
+
+
+
+
