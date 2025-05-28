@@ -5,7 +5,7 @@ Personal Finance Management Application – User Manual
 Command-Line Based  Personal Finance Management Application
 
 Author  :  Pulkit Upreti
-Date of Submission  :  May 27, 2025
+Date of Submission  :  May 28, 2025
 
 Table of Contents
 1.	 Introduction
